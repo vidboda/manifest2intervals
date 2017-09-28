@@ -12,4 +12,4 @@ WARNING: The BED file is assumed to be 0-based. Output is 1-based. For more deta
 
 ## Please note
 
-that converting BED into intervals files is easier using awk, see [here](https://gist.github.com/beboche] for an example.
+that converting BED into intervals files is easier using awk, see [here](https://gist.github.com/beboche) for an example.
